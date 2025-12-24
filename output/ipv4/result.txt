@@ -1,7 +1,18 @@
 🕘️更新时间,#genre#
-2025-12-24 18:16:18,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+2025-12-25 06:15:22,http://175.8.28.207:9999/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://175.8.28.207:9999/tsfile/live/0001_1.m3u8
+CCTV-2,http://175.8.28.207:9999/tsfile/live/0002_1.m3u8
+CCTV-3,http://175.8.28.207:9999/tsfile/live/0003_1.m3u8
+CCTV-4,http://175.8.28.207:9999/tsfile/live/0004_1.m3u8
+CCTV-5,http://175.8.28.207:9999/tsfile/live/0005_1.m3u8
+CCTV-6,http://175.8.28.207:9999/tsfile/live/0006_1.m3u8
+CCTV-8,http://175.8.28.207:9999/tsfile/live/0008_1.m3u8
+CCTV-9,http://175.8.28.207:9999/tsfile/live/0009_1.m3u8
+CCTV-10,http://175.8.28.207:9999/tsfile/live/0010_1.m3u8
+CCTV-11,http://175.8.28.207:9999/tsfile/live/0011_1.m3u8
+CCTV-12,http://175.8.28.207:9999/tsfile/live/0012_1.m3u8
 
 💰央视付费频道,#genre#
 
@@ -95,22 +106,27 @@
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
+靖天映画,http://gkb.vigosee.com:50007/4gtv-4gtv055/index.m3u8?proxy=true
+靖天映画,http://nmk.ioapk.com:5050/4gtv-4gtv055/index.m3u8?proxy=true
+靖天映画,http://211.23.125.95:50007/4gtv-4gtv055/index.m3u8?proxy=true
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
+靖天戏剧,http://gkb.vigosee.com:50007/4gtv-4gtv058/index.m3u8?proxy=true
+靖天戏剧,http://nmk.ioapk.com:5050/4gtv-4gtv058/index.m3u8?proxy=true
+靖天戏剧,http://gkb.vigosee.com:50007/li-4gtv-4gtv058/index.m3u8?proxy=true
+靖天戏剧,http://211.23.125.95:50007/4gtv-4gtv058/index.m3u8?proxy=true
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
