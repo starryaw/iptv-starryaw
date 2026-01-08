@@ -1,25 +1,100 @@
 🕘️更新时间,#genre#
-2026-01-08 18:18:31,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+2026-01-09 06:17:50,http://23.237.228.134/live5/CCTV5.m3u8
 
 📺央视频道,#genre#
+CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
+CCTV-5,http://69.30.246.194/live/cctv5p.m3u8
+CCTV-7,http://btjg.net:809/hls/7/index.m3u8
+CCTV-7,http://222.214.208.34:59901/tsfile/live/0007_1.m3u8
+CCTV-8,http://222.214.208.34:59901/tsfile/live/0008_1.m3u8
+CCTV-16,http://69.30.246.194/live/cctv16.m3u8
+CCTV-16,http://39.152.103.17:8089/tsfile/live/1073_1.m3u8
+CCTV-16,http://hmfs.f3322.net:3388/hls/36/index.m3u8
+CETV1,http://39.152.103.17:8089/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&down=1
+CETV4,http://39.152.103.17:8089/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&down=1
 
 💰央视付费频道,#genre#
+风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+高尔夫网球,http://39.152.103.17:8089/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&down=1
 
 📡卫视频道,#genre#
+广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+广东卫视,http://183.7.172.224:8888/hls/1/index.m3u8
+浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
+浙江卫视,http://69.30.246.194/live/zjws.m3u8
+浙江卫视,http://39.152.103.17:8089/tsfile/live/1037_1.m3u8
+湖南卫视,http://69.30.246.194/live/hnws.m3u8
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖北卫视,http://23.237.228.134/live6/hubei.m3u8
+湖北卫视,http://btjg.net:809/hls/31/index.m3u8
+湖北卫视,http://183.7.172.224:8888/hls/36/index.m3u8
+黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8
+黑龙江卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/31/index.m3u8
+安徽卫视,http://23.237.228.134/live8/anhui.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+安徽卫视,http://39.152.103.17:8089/tsfile/live/1039_1.m3u8
+安徽卫视,http://btjg.net:809/hls/42/index.m3u8
+安徽卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/29/index.m3u8
+重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+东方卫视,http://23.237.228.134/live6/dongnan.m3u8
+东方卫视,http://69.30.246.194/live/dfws.m3u8
+东南卫视,http://23.237.228.134/live8/gansu.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+东南卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/33/index.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
+广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://shijiazhuangjingshi-12.synology.me:8092/hls/39/index.m3u8
+广西卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/39/index.m3u8
+贵州卫视,http://23.237.228.134/live6/hainan.m3u8
+贵州卫视,http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
+贵州卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/40/index.m3u8
+河北卫视,http://23.237.228.134/live8/hebei.m3u8
+河北卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/15/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://23.237.228.134/live6/henan.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://39.152.103.17:8089/tsfile/live/1080_1.m3u8
+吉林卫视,http://23.237.228.134/live8/jilin.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+吉林卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/44/index.m3u8
+江苏卫视,http://69.30.246.194/live/jsws.m3u8
+江苏卫视,http://btjg.net:809/hls/30/index.m3u8
+江苏卫视,http://183.7.172.224:8888/hls/39/index.m3u8
+江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
+辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8
+辽宁卫视,http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8
+内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
+宁夏卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/45/index.m3u8
+青海卫视,http://23.237.228.134/live8/qinghai.m3u8
+青海卫视,http://23.237.228.134/live8/shandong.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东卫视,http://39.152.103.17:8089/tsfile/live/1018_1.m3u8
+山东卫视,http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8
+山西卫视,http://23.237.228.134/live8/shanxi.m3u8
+山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
+陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+陕西卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://117.36.76.86:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
+深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
+三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+三沙卫视,http://tpc.x3322.net:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://23.237.228.134/live8/tianjing.m3u8
+天津卫视,http://shijiazhuangjingshi-b.synology.me:8092/hls/25/index.m3u8
+云南卫视,http://23.237.228.134/live8/yunnan.m3u8
 
 ☘️广东频道,#genre#
+广东体育,http://74.91.26.218:82/live/gdty.m3u8
+广东体育,http://27.41.245.32:801/hls/204/index.m3u8
+广东体育,http://183.7.172.224:8888/hls/5/index.m3u8
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
+大湾区卫视,http://220.231.188.194:8088/hls/31/index.m3u8
 
 ☘️浙江频道,#genre#
 
@@ -29,11 +104,18 @@
 北京财经,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
 
 ☘️上海频道,#genre#
+欢笑剧场,http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
+法治天地,http://218.78.179.62:7777/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+都市剧场,http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 ☘️重庆频道,#genre#
+垫江综合,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 
 ☘️江苏频道,#genre#
+句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8
+句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358
 
 ☘️辽宁频道,#genre#
 
@@ -42,6 +124,8 @@
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
+广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
+广西国际,http://38.75.136.137:98/gslb/dsdqpub/gxgj.m3u8?auth=testpub
 
 ☘️天津频道,#genre#
 
@@ -77,6 +161,8 @@
 ☘️山西频道,#genre#
 
 ☘️安徽频道,#genre#
+安徽影视,https://ahlive.ahwanyun.cn/live/8534e69a9af14e41a362bcef71d7896f/hls.m3u8
+安徽影视,http://112.132.10.54:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️宁夏频道,#genre#
 
@@ -85,6 +171,8 @@
 ☘️内蒙古频道,#genre#
 
 ☘️云南频道,#genre#
+云南都市,https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
+云南娱乐,https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
 
 ☘️青海频道,#genre#
 
@@ -95,7 +183,6 @@
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
@@ -105,8 +192,8 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
-纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
+靖天戏剧,http://118.233.28.52:50007/4gtv-4gtv058/index.m3u8?proxy=true
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
@@ -114,6 +201,10 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
+五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://sun135790.x3322.net:9901/tsfile/live/16006_1.m3u8?key=txiptv&playlive=1&authid=0
+天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
